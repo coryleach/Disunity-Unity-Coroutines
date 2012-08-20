@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YieldInstruction.cs">
+    <Files>
+      <File FileName="Behavior.cs" Line="5" Column="19" />
+      <File FileName="BehaviorManager.cs" Line="5" Column="19" />
+      <File FileName="Collider.cs" Line="3" Column="19" />
+      <File FileName="Component.cs" Line="3" Column="19" />
+      <File FileName="Coroutine.cs" Line="4" Column="19" />
+      <File FileName="GameObject.cs" Line="4" Column="19" />
+      <File FileName="Rigidbody.cs" Line="3" Column="19" />
+      <File FileName="Transform.cs" Line="3" Column="19" />
+      <File FileName="Vector3.cs" Line="3" Column="19" />
+      <File FileName="WaitForSeconds.cs" Line="4" Column="19" />
+      <File FileName="YieldInstruction.cs" Line="15" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
